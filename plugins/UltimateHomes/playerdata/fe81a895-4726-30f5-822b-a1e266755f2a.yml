@@ -1,0 +1,25 @@
+player:
+  info:
+    lastSeenAs: tntBittencourt_
+homes:
+  home:
+    x: 397
+    y: 63
+    z: -603
+    yaw: -142.9
+    pitch: 3.100004
+    world: world
+  '2':
+    x: 344
+    y: 31
+    z: -594
+    yaw: -41.387695
+    pitch: 30.750208
+    world: world
+  '3':
+    x: -131
+    y: 64
+    z: 2210
+    yaw: 157.75311
+    pitch: 29.00757
+    world: world

@@ -1,0 +1,25 @@
+player:
+  info:
+    lastSeenAs: Harper
+homes:
+  floresta1:
+    x: -226
+    y: 69
+    z: -14
+    yaw: 78.80762
+    pitch: 35.54994
+    world: world
+  harperhouse:
+    x: 511
+    y: 63
+    z: 1683
+    yaw: 9.163137
+    pitch: 40.04955
+    world: world
+  mina1:
+    x: 761
+    y: 33
+    z: 1705
+    yaw: -9.149597
+    pitch: 34.350018
+    world: world

@@ -1,0 +1,39 @@
+player:
+  info:
+    lastSeenAs: arthur_413
+homes:
+  spawn:
+    x: -713
+    y: -33
+    z: 261
+    yaw: -63.850033
+    pitch: 26.799997
+    world: world
+  casa:
+    x: 441
+    y: 61
+    z: 1650
+    yaw: 165.74976
+    pitch: 20.249996
+    world: world
+  casa2:
+    x: 354
+    y: 65
+    z: -635
+    yaw: -40.23341
+    pitch: 26.522114
+    world: world
+  red:
+    x: 440
+    y: 68
+    z: -192
+    yaw: -19.550112
+    pitch: 19.000078
+    world: world
+  porco:
+    x: 282
+    y: 251
+    z: -712
+    yaw: 177.0683
+    pitch: 61.500053
+    world: world_nether

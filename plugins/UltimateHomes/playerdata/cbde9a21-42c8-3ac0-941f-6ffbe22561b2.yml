@@ -1,0 +1,32 @@
+player:
+  info:
+    lastSeenAs: eugostodetortas
+homes:
+  home:
+    x: -711
+    y: -33
+    z: 260
+    yaw: 0.6999907
+    pitch: 33.150013
+    world: world
+  farm:
+    x: -717
+    y: -30
+    z: 260
+    yaw: 87.14986
+    pitch: -7.499983
+    world: world
+  mesa:
+    x: 438
+    y: 68
+    z: -200
+    yaw: 75.70154
+    pitch: 55.64995
+    world: world
+  casaminha:
+    x: 424
+    y: 84
+    z: -700
+    yaw: -48.897614
+    pitch: 27.149635
+    world: world

@@ -1,0 +1,16 @@
+server-name: "My Server"
+messages:
+  join:
+    default: "&7[&a+&7] &7%player% &7(%online%/%max%)"
+    first: "&7[&6Newcomer&7] &7%player% &7(%online%/%max%)"
+    vip: "&7[&bVIP&7] &7%player% &7(%online%/%max%)"
+  leave:
+    default: "&7[&c-&7] &7%player% &7(%online%/%max%)"
+    vip: "&7[&bVIP&7] &7%player% &7(%online%/%max%)"
+title:
+  first-time-join:
+    title: "&aWelcome &f%player%"
+    subtitle: "&fon %server_name% &fenjoy!"
+    fade-in: 10
+    stay: 70
+    fade-out: 20

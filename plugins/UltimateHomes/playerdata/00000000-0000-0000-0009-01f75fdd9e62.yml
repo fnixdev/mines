@@ -1,0 +1,25 @@
+player:
+  info:
+    lastSeenAs: .redzn2846
+homes:
+  casa:
+    x: 440
+    y: 68
+    z: -191
+    yaw: -114.286514
+    pitch: 37.493317
+    world: world
+  spawn:
+    x: -13
+    y: 67
+    z: -49
+    yaw: 176.63962
+    pitch: 17.418335
+    world: world
+  junin:
+    x: 433
+    y: 86
+    z: -712
+    yaw: -177.24756
+    pitch: 25.106903
+    world: world

@@ -1,0 +1,39 @@
+player:
+  info:
+    lastSeenAs: FniXDev
+homes:
+  home:
+    x: 480
+    y: 67
+    z: 1622
+    yaw: -72.90903
+    pitch: 2.7003088
+    world: world
+  nether:
+    x: -4
+    y: 53
+    z: 490
+    yaw: -38.392944
+    pitch: 17.100027
+    world: world_nether
+  xp:
+    x: -712
+    y: -32
+    z: 261
+    yaw: -109.50084
+    pitch: 22.299223
+    world: world
+  xp2:
+    x: -219
+    y: -19
+    z: 2374
+    yaw: 151.59067
+    pitch: 0.14979269
+    world: world
+  cave:
+    x: 713
+    y: -51
+    z: 1683
+    yaw: -45.98816
+    pitch: 11.700216
+    world: world
